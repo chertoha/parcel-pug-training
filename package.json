@@ -12,7 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.pug --open",
-    "build": "parcel build src/index.pug -d docs --public-url ./"
+    "build": "parcel build src/index.pug -d docs --public-url /parcel-pug-training/"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
   "bugs": {
     "url": "https://github.com/chertoha/parcel-pug-training/issues"
   },
-  "homepage": "https://github.com/chertoha/parcel-pug-training#readme",
+  "homepage": "https://chertoha.github.io/parcel-pug-training",
   "description": ""
 }
