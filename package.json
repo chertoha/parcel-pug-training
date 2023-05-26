@@ -11,8 +11,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel src/index.pug --open --port 8001",
-    "build": "parcel build src/index.pug --public-url /parcel-pug-training/"
+    "start": "parcel src/*.pug --open --port 8001",
+    "build": "parcel build src/*.pug --public-url /parcel-pug-training/"
   },
   "repository": {
     "type": "git",
